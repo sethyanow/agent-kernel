@@ -1,1 +1,4 @@
 @AGENTS.md
+@IDENTITY.md
+@KNOWLEDGE.md
+@DREAMS.md
